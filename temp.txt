@@ -1,0 +1,15 @@
+ if(aCCCount < 4) then
+       i = 1
+     end if
+    if(battleCount < 3) then
+       i = 2
+     end if
+    if(subCount < 2) then
+       i = 3
+     end if
+   if(destCount < 2) then
+       i = 4
+     end if
+   if(patrolCount < 1) then
+       i = 5
+     end if
